@@ -4,7 +4,8 @@ Reference: [C195 Check-off list](https://srm--c.na127.visual.force.com/apex/cour
 
 Part I: Assessment Overview, UML Design, Menu Wireframe, and Course Documentation
 
-- [ ]    Read the Performance Assessment Overview, Directions, and Evaluation method in the "Task View". Reach out to your Instructor for any questions about the Performance Assessment
+- [x]    Read the Performance Assessment Overview, Directions, and Evaluation method in the "Task View". 
+- [ ]    Reach out to your Instructor for any questions about the Performance Assessment
      
 - [ ]    Watch the LinkedIn Learning course titled Programming Foundations: Object-Oriented Design by Barron Stone and Olivia Chiu Stone, to learn about Object-Oriented Principles such as Classes, Abstraction, Encapsulation, Inheritance, Polymorphism, Class Relationships, and more. Also, watch the LinkedIn Learning course titled Programming Foundations: Databases by Simon Allardice to learn about Database Fundamentals such as Table Relationships, Normalization, Referential Integrity, and more
      
