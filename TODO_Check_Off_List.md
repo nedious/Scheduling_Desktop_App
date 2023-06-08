@@ -7,7 +7,8 @@ Part I: Assessment Overview, UML Design, Menu Wireframe, and Course Documentatio
 - [x]    Read the Performance Assessment Overview, Directions, and Evaluation method in the "Task View". 
 - [ ]    Reach out to your Instructor for any questions about the Performance Assessment
      
-- [ ]    Watch the LinkedIn Learning course titled Programming Foundations: Object-Oriented Design by Barron Stone and Olivia Chiu Stone, to learn about Object-Oriented Principles such as Classes, Abstraction, Encapsulation, Inheritance, Polymorphism, Class Relationships, and more. Also, watch the LinkedIn Learning course titled Programming Foundations: Databases by Simon Allardice to learn about Database Fundamentals such as Table Relationships, Normalization, Referential Integrity, and more
+- [ ]    Watch the LinkedIn Learning course titled [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=2045532) by Barron Stone and Olivia Chiu Stone, to learn about Object-Oriented Principles such as Classes, Abstraction, Encapsulation, Inheritance, Polymorphism, Class Relationships, and more. 
+- [ ]    Also, watch the LinkedIn Learning course titled [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2015/welcome?u=2045532) by Simon Allardice to learn about Database Fundamentals such as Table Relationships, Normalization, Referential Integrity, and more
      
 - [ ]    NEW: Watch the Establishing A Client-Side Database Part I, Part II, Part III, and Part IV webinars to learn how to set up a MySQL database on your computer that replicates the Virtual Machine MySQL database so you can work from your Computer as well as the Virtual Machine. Get the DML & DDL Script for Creating the Database / Tables and Populating the Tables Here!
      
