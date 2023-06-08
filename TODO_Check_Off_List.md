@@ -1,4 +1,4 @@
-Reference: [C195 Check-off list] (https://srm--c.na127.visual.force.com/apex/coursearticle?Id=kA03x000000yIOLCA2)
+Reference: [C195 Check-off list](https://srm--c.na127.visual.force.com/apex/coursearticle?Id=kA03x000000yIOLCA2)
  
  Check off the steps that you have completed. 
 
