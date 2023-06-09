@@ -38,12 +38,11 @@ git checkout -b newFileName
 // deleting branches: '-d' = delete
 git branch -d branchName
 
-
-
 //switch between branches
 git checkout branchName
 
 // what are the differences between branches? use 'git diff' to compare two versions and lines of code changed
 git diff branchName
 
-
+//frequently adding the master branch to your local file is wise
+git merge mainBranchName
