@@ -35,6 +35,11 @@ git branch
 //create a new branch: 'get checkout' is used to switch between branches. adding '-b newFileName' creates a new branch
 git checkout -b newFileName
 
+// deleting branches: '-d' = delete
+git branch -d branchName
+
+
+
 //switch between branches
 git checkout branchName
 
