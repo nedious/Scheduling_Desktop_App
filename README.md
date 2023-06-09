@@ -10,3 +10,4 @@ This project focused on building a scheduling app. The following supported its d
 2. inheritance
 3. github for planning and tracking changes
 4. UML diagrams
+5. branches 

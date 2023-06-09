@@ -29,3 +29,16 @@ git commit -m "title" -m "description"
 //master = name of branch
 git push origin master
 
+//investigating branches: 'git branch' will result in *branchName (ie '* main' telling you are in the main branch)
+git branch
+
+//create a new branch: 'get checkout' is used to switch between branches. adding '-b newFileName' creates a new branch
+git checkout -b newFileName
+
+//switch between branches
+git checkout branchName
+
+// what are the differences between branches? use 'git diff' to compare two versions and lines of code changed
+git diff branchName
+
+
