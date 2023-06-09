@@ -38,4 +38,7 @@ git checkout -b newFileName
 //switch between branches
 git checkout branchName
 
+// what are the differences between branches? use 'git diff' to compare two versions and lines of code changed
+git diff branchName
+
 
