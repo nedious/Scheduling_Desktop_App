@@ -24,6 +24,9 @@ git add .
 //-m "enter your message" = message (1st -m is for title of message, 2nd -m is for description)
 git commit -m "title" -m "description"
 
+//short hand: you need to do 'git add' then 'git commit' to commit, so a short hand is '-am' = add message
+git commit -am
+
 //Make commit live by Push
 //origin = location of git repository
 //master = name of branch
