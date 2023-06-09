@@ -61,3 +61,11 @@ git reset HEAD~1
 
 // log of your actions
 git log
+
+// in log of actions there is a unique commit hash number.
+// if you want to completely go back to a previous point in time you can copy the log number, then
+//paste that in after a reset and '--hard' says delete everything after that log number
+//not HEAD is pointing to a different commit
+git reset --hard 1234commit#number#from#log#1234
+
+
