@@ -1,0 +1,30 @@
+//Use the following in terminal
+
+//to clone repository:
+git clone (paste repository https)
+
+//change directory within folder:
+cd (folder_name)
+
+// are you in a git repository? lets find out: (will reveal hidden folders)
+//ls = list
+//look for .git folder, this means you are in git repository, it saves your changes over time
+ls -la
+
+//status of git: this shows all files updated or deleted but haven't been saved in a commit yet
+git status
+
+//track all files before saving to git:
+//. = all
+// otherwise, you could type the individual file you want to track ie: getTerminal
+git add .
+
+//make commit and save *Locally*
+//-m "enter your message" = message (1st -m is for title of message, 2nd -m is for description)
+git commit -m "title" -m "description"
+
+//Make commit live by Push
+//origin = location of git repository
+//master = name of branch
+git push origin master
+
