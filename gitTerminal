@@ -49,3 +49,15 @@ git diff branchName
 
 //frequently adding the master branch to your local file is wise
 git merge mainBranchName
+
+// ERROR!!! Did you make an error? here's how to fix
+// you added changes via 'git add' and now you want to undo that:
+//this reverses the staging (fileNameToUnstage is not necessary)
+git reset fileNameToUnstage
+
+//ERROR!!! did you already commit a change to the main?
+// fix by using this: this tells the git to go back a full commit thus nullifying the recent commit in error
+git reset HEAD~1
+
+// log of your actions
+git log
