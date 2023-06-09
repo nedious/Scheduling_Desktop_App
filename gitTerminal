@@ -1,6 +1,17 @@
 //Use the following in terminal
 //for reference use this link or search for github tutorial: https://www.youtube.com/watch?v=RGOj5yH7evk
 
+//highlight of commands most likely to be used
+git status
+git commit -am "a stands for add, m stands for message"
+git push
+git log
+git branch
+git checkout branchName
+git diff
+git merge mainBranchName
+git reset
+
 //to clone repository:
 git clone (paste repository https)
 
@@ -69,3 +80,13 @@ git log
 git reset --hard 1234commit#number#from#log#1234
 
 
+//recap of notes most likely to be used
+git status
+git commit -am "a stands for add, m stands for message"
+git push
+git log
+git branch
+git checkout branchName
+git diff
+git merge mainBranchName
+git reset
