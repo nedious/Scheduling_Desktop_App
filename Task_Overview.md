@@ -1,3 +1,24 @@
+# Competencies
+Database and File Server Applications
+
+The graduate produces database and file server applications using advanced Java programming language constructs to meet business requirements.
+
+Lambda
+
+The graduate incorporates lambda expressions in application development to meet business requirements more efficiently.
+
+Collections
+
+The graduate incorporates streams and filters in application development to manipulate data more efficiently.
+
+Localization API and Date/Time API
+
+The graduate applies the localization API and date/time API in application development to support end-users in various geographical regions.
+
+Advanced Exception Control
+
+The graduate incorporates advanced exception control mechanisms in application development for improving user experience and application stability.
+
 # Introduction
 
 Throughout your career in software design and development, you will be asked to create applications with various features and criteria based on a variety of business requirements. For this assessment, you will create your own GUI-based Java application with requirements that mirror those you will likely encounter in a real-world job assignment. 
