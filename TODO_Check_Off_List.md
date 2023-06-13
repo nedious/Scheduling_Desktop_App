@@ -15,7 +15,7 @@ Part I: Assessment Overview, UML Design, Menu Wireframe, and Course Documentatio
      2. open Terminal
      3. paste in: `/usr/local/mysql/bin/mysql -u root -p`
    - [x]    [Part I](https://wgu.webex.com/webappng/sites/wgu/recording/c364f547fa5e1039877d0050568f9b64/playback) 
-   - [ ]    [Part II](https://wgu.webex.com/webappng/sites/wgu/recording/cce7d3e7fa601039b99e005056816858/playback)
+   - [x]    [Part II](https://wgu.webex.com/webappng/sites/wgu/recording/cce7d3e7fa601039b99e005056816858/playback)
    - [ ]    [Part III](https://wgu.webex.com/webappng/sites/wgu/recording/0fd3ea5afa621039bbfb0050568114a0/playback)
    - [ ]    [Part IV](https://wgu.webex.com/webappng/sites/wgu/recording/9b8a01f9fcbe1039a7d900505681e613/playback) 
 webinars to learn how to set up a MySQL database on your computer that replicates the Virtual Machine MySQL database so you can work from your Computer as well as the Virtual Machine. **Get the DML & DDL Script for Creating the Database / Tables and Populating the Tables** [Here!](https://westerngovernorsuniversity.sharepoint.com/sites/CISoftwareTeamResourcesRepo/Student%20Resources/Forms/AllItems.aspx?csf=1&web=1&e=RpaDHb&cid=84339e9b%2D0cb1%2D40d8%2Da4df%2D6b3249b0715c&RootFolder=%2Fsites%2FCISoftwareTeamResourcesRepo%2FStudent%20Resources%2FC195%20Code%20Repository%2FC195%5FQSG%2FC195%5FQSG%2FEstablishing%5Fa%5FClient%2DSide%5FDatabase&FolderCTID=0x0120003A10B552C00AC84098A6553E0FD6F792)
