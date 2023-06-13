@@ -14,7 +14,7 @@ Part I: Assessment Overview, UML Design, Menu Wireframe, and Course Documentatio
      1. **note** to access the MySQL Command Line Client on a Mac:
      2. open Terminal
      3. paste in: `/usr/local/mysql/bin/mysql -u root -p`
-   - [ ]    [Part I](https://wgu.webex.com/webappng/sites/wgu/recording/c364f547fa5e1039877d0050568f9b64/playback) 
+   - [x]    [Part I](https://wgu.webex.com/webappng/sites/wgu/recording/c364f547fa5e1039877d0050568f9b64/playback) 
    - [ ]    [Part II](https://wgu.webex.com/webappng/sites/wgu/recording/cce7d3e7fa601039b99e005056816858/playback)
    - [ ]    [Part III](https://wgu.webex.com/webappng/sites/wgu/recording/0fd3ea5afa621039bbfb0050568114a0/playback)
    - [ ]    [Part IV](https://wgu.webex.com/webappng/sites/wgu/recording/9b8a01f9fcbe1039a7d900505681e613/playback) 
