@@ -11,6 +11,9 @@ Part I: Assessment Overview, UML Design, Menu Wireframe, and Course Documentatio
 - [x]    Also, watch the LinkedIn Learning course titled [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2015/welcome?u=2045532) by Simon Allardice to learn about Database Fundamentals such as Table Relationships, Normalization, Referential Integrity, and more
      
 - [ ]    NEW: Watch the Establishing A Client-Side Database 
+     **note** to access the MySQL Command Line Client on a Mac:
+     1. open Terminal
+     2. paste in: `/usr/local/mysql/bin/mysql -u root -p`
    - [ ]    [Part I](https://wgu.webex.com/webappng/sites/wgu/recording/c364f547fa5e1039877d0050568f9b64/playback) 
    - [ ]    [Part II](https://wgu.webex.com/webappng/sites/wgu/recording/cce7d3e7fa601039b99e005056816858/playback)
    - [ ]    [Part III](https://wgu.webex.com/webappng/sites/wgu/recording/0fd3ea5afa621039bbfb0050568114a0/playback)
