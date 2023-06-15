@@ -10,8 +10,10 @@ View the recording:
 6. Click the button “export recordset to an external file”
 7. Save to your preferred destination
 8. Open Saved CSV file
-This will open in Microsoft Excel
+* This will open in Microsoft Excel
 * you can also open it in Notepad
+
+
 9. Go to MySQL Workbench
 10. To delete data from table type into the query:
 11. `DELETE FROM databaseName.tableName WHERE columnName > 8`
