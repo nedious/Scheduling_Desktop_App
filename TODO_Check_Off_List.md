@@ -26,7 +26,7 @@ webinars to learn how to set up a MySQL database on your computer that replicate
  
  * Note: If you get a 403 FORBIDDEN message when you launch One Drive, please Clear all Cache and Cookies from your Web Browser.
 
-- [ ]    NEW: Watch the [Version Control with IntelliJ and GitHub](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a370e62-5ad8-424a-9856-adc900f2429c) or Version Control with NetBeans and GitHub  webinar to learn how to integrate backup to GitHub from IntelliJ or NetBeans within the Virtual Machine (VM)
+- [x]    NEW: Watch the Version Control with IntelliJ and GitHub or Version Control with NetBeans and GitHub  webinar to learn how to integrate backup to GitHub from IntelliJ or NetBeans within the Virtual Machine (VM)
      
 - [ ]    NEW: Watch the Connecting to the Database (IntelliJ) or Connecting to the Database (NetBeans) webinar to learn how to connect to the Database from IntelliJ or NetBeans within the Virtual Machine (VM)
      
