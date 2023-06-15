@@ -20,12 +20,13 @@ Part I: Assessment Overview, UML Design, Menu Wireframe, and Course Documentatio
    - [x]    [Part IV](https://wgu.webex.com/webappng/sites/wgu/recording/9b8a01f9fcbe1039a7d900505681e613/playback) 
 webinars to learn how to set up a MySQL database on your computer that replicates the Virtual Machine MySQL database so you can work from your Computer as well as the Virtual Machine. **Get the DML & DDL Script for Creating the Database / Tables and Populating the Tables** [Here!](https://westerngovernorsuniversity.sharepoint.com/sites/CISoftwareTeamResourcesRepo/Student%20Resources/Forms/AllItems.aspx?csf=1&web=1&e=RpaDHb&cid=84339e9b%2D0cb1%2D40d8%2Da4df%2D6b3249b0715c&RootFolder=%2Fsites%2FCISoftwareTeamResourcesRepo%2FStudent%20Resources%2FC195%20Code%20Repository%2FC195%5FQSG%2FC195%5FQSG%2FEstablishing%5Fa%5FClient%2DSide%5FDatabase&FolderCTID=0x0120003A10B552C00AC84098A6553E0FD6F792)
      
-- [ ]    NEW: Watch the [Backing Up Database Table Data](https://wgu.webex.com/webappng/sites/wgu/recording/bc314ed7f9f21039aabb0050568f95d3/playback) webinar to learn how to export table data into a .csv file and then import the .csv file data back to a matching table
+- [x]    NEW: Watch the [Backing Up Database Table Data](https://wgu.webex.com/webappng/sites/wgu/recording/bc314ed7f9f21039aabb0050568f95d3/playback) webinar to learn how to export table data into a .csv file and then import the .csv file data back to a matching table
      
-- [ ]    NEW: Watch the VM & Client File Transfer webinar to learn how to transfer files between your Computer and the Virtual Machine (VM) using Microsoft One Drive. 
-    Note: If you get a 403 FORBIDDEN message when you launch One Drive, please Clear all Cache and Cookies from your Web Browser.
+- [ ]    NEW: Watch the [VM & Client File Transfer](https://wgu.webex.com/wgu/ldr.php?RCID=9556f718cc3ab875513dc70af15a1819) webinar to learn how to transfer files between your Computer and the Virtual Machine (VM) using Microsoft One Drive. 
+ 
+ * Note: If you get a 403 FORBIDDEN message when you launch One Drive, please Clear all Cache and Cookies from your Web Browser.
 
-- [ ]    NEW: Watch the Version Control with IntelliJ and GitHub or Version Control with NetBeans and GitHub  webinar to learn how to integrate backup to GitHub from IntelliJ or NetBeans within the Virtual Machine (VM)
+- [ ]    NEW: Watch the [Version Control with IntelliJ and GitHub](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a370e62-5ad8-424a-9856-adc900f2429c) or Version Control with NetBeans and GitHub  webinar to learn how to integrate backup to GitHub from IntelliJ or NetBeans within the Virtual Machine (VM)
      
 - [ ]    NEW: Watch the Connecting to the Database (IntelliJ) or Connecting to the Database (NetBeans) webinar to learn how to connect to the Database from IntelliJ or NetBeans within the Virtual Machine (VM)
      
