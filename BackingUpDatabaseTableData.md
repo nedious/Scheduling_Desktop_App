@@ -2,6 +2,8 @@ View the recording:
 [BackingUpDatabaseTableData.md](https://wgu.webex.com/webappng/sites/wgu/recording/bc314ed7f9f21039aabb0050568f95d3/playback)
 5 Min
 
+[google docs page](https://docs.google.com/document/d/1noZ1LN7LJr9e4c5zq_5sFnrM6uWup6N3idIH1w5_y28/edit)
+
 1. Export table data to a CSV (Comma Separated Values) File
 2. Start MySQL Workbench
 3. Go to data, open tables. Move mouse over table name and 3 options will display, the far right one is the ‘select’ button, click that one (looks like a calendar)
