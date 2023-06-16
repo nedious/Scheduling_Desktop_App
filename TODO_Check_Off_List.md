@@ -31,9 +31,7 @@ webinars to learn how to set up a MySQL database on your computer that replicate
 - [x]    NEW: Watch the Connecting to the Database (IntelliJ) or Connecting to the Database (NetBeans) webinar to learn how to connect to the Database from IntelliJ or NetBeans within the Virtual Machine (VM)
      
 - [x]    NEW: Watch the Connecting to the Database (MySQL Workbench) webinar to learn how to connect to the Database from MySQL Workbench within the Virtual Machine (VM)
-     
-- [ ]    Watch the Getting You DBConnection Class Project Ready. This webinar recording is also available in Course Tips under the same title. Please note that the webinar shows connecting to an older database so the IP address, database name, and password differ from the VM database connections so please watch the webinars on Connecting to the Database (IntelliJ) or Connecting to the Database (NetBeans) first.
-     
+          
 - [ ]    Watch the JDBC  API Webinar to learn how to use its implementations to work with MySQL from Java and perform CREATE, READ, UPDATE, and DELETE (CRUD) operations on data.
      
 - [ ]    Examine the ERD
