@@ -28,7 +28,7 @@ webinars to learn how to set up a MySQL database on your computer that replicate
 
 - [x]    NEW: Watch the Version Control with IntelliJ and GitHub or Version Control with NetBeans and GitHub  webinar to learn how to integrate backup to GitHub from IntelliJ or NetBeans within the Virtual Machine (VM)
      
-- [ ]    NEW: Watch the Connecting to the Database (IntelliJ) or Connecting to the Database (NetBeans) webinar to learn how to connect to the Database from IntelliJ or NetBeans within the Virtual Machine (VM)
+- [x]    NEW: Watch the Connecting to the Database (IntelliJ) or Connecting to the Database (NetBeans) webinar to learn how to connect to the Database from IntelliJ or NetBeans within the Virtual Machine (VM)
      
 - [ ]    NEW: Watch the Connecting to the Database (MySQL Workbench) webinar to learn how to connect to the Database from MySQL Workbench within the Virtual Machine (VM)
      
