@@ -22,7 +22,7 @@ webinars to learn how to set up a MySQL database on your computer that replicate
      
 - [x]    NEW: Watch the [Backing Up Database Table Data](https://wgu.webex.com/webappng/sites/wgu/recording/bc314ed7f9f21039aabb0050568f95d3/playback) webinar to learn how to export table data into a .csv file and then import the .csv file data back to a matching table
      
-- [ ]    NEW: Watch the [VM & Client File Transfer](https://wgu.webex.com/wgu/ldr.php?RCID=9556f718cc3ab875513dc70af15a1819) webinar to learn how to transfer files between your Computer and the Virtual Machine (VM) using Microsoft One Drive. 
+- [x]    NEW: Watch the [VM & Client File Transfer](https://wgu.webex.com/wgu/ldr.php?RCID=9556f718cc3ab875513dc70af15a1819) webinar to learn how to transfer files between your Computer and the Virtual Machine (VM) using Microsoft One Drive. 
  
  * Note: If you get a 403 FORBIDDEN message when you launch One Drive, please Clear all Cache and Cookies from your Web Browser.
 
