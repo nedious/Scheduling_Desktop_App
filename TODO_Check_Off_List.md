@@ -35,9 +35,9 @@ webinars to learn how to set up a MySQL database on your computer that replicate
           
 - [x]    Watch the JDBC  API Webinar to learn how to use its implementations to work with MySQL from Java and perform CREATE, READ, UPDATE, and DELETE (CRUD) operations on data.
      
-- [ ]    Examine the ERD
+- [x]    Examine the ERD
      
-- [ ]    Optionally Sign up to lucidchart.com  to create UML Class Diagrams
+- [x]    Optionally Sign up to lucidchart.com  to create UML Class Diagrams
      
 - [ ]    Define POJO (Plain Old Java Object) classes that Map the ERD. The POJOs are used to Map rows from the database tables
      
