@@ -56,19 +56,19 @@ Part II:
 
 Software Requirements
 
-- [ ]    Download and install JDK 17 by Oracle
+- [x]    Download and install JDK 17 by Oracle
      
-- [ ]    Download and install NetBeans 12.0 IDE  or IntelliJ IDEA Communitiy Edition Version 2021.1.3 or Prior (IntelliJ is preferred.)
+- [x]    Download and install IntelliJ IDEA Communitiy Edition Version 2021.1.3 or Prior 
      
-- [ ]    Download and install Scene Builder for Java 17
+- [x]    Download and install Scene Builder for Java 17
      
-- [ ]    Download and install MySQL Workbench 6.3
+- [x]    Download and install MySQL Workbench 6.3
      
-- [ ]    Download and Install JavaFX 17 SDK
+- [x]    Download and Install JavaFX 17 SDK
      
-- [ ]    Watch the following webinars for JavaFXSDK NetBeans Setup,  JavaFXSDK IntelliJ Setup, and JavaDoc instructions: 
+- [x]    Watch the following webinars for JavaFXSDK IntelliJ Setup, and JavaDoc instructions: 
      
-- [ ]    Contact your instructor if you need assistance installing any of the software
+- [x]    Contact your instructor if you need assistance installing any of the software
 
  
 
@@ -101,7 +101,7 @@ NOTE: If you created a JavaFX Project via Maven, please place your FXML and Reso
      
 - [ ]    Appointments: Use a TableView to display appointments. Contact your instructor if you need assistance.
      
-- [ ]    Time Zones: Watch the Time Zones webinar recording.
+- [x]    Time Zones: Watch the Time Zones webinar recording.
      
 - [ ]    Exceptions & Exception Handling: Watch the Exception Handling and Time Overlaps and Alerts and webinar recordings. Contact your instructor if you need assistance setting-up try/catch and throws clause exception handling, and checking for logical errors.
      
