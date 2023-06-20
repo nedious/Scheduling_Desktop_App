@@ -31,8 +31,9 @@ webinars to learn how to set up a MySQL database on your computer that replicate
 - [x]    NEW: Watch the Connecting to the Database (IntelliJ) or Connecting to the Database (NetBeans) webinar to learn how to connect to the Database from IntelliJ or NetBeans within the Virtual Machine (VM)
      
 - [x]    NEW: Watch the Connecting to the Database (MySQL Workbench) webinar to learn how to connect to the Database from MySQL Workbench within the Virtual Machine (VM)
+- [ ]    Watch the [Getting You DBConnection Class Project Ready](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1be32ba5-76c6-47f3-8816-accf0002109b) (Watch Again time: 12:00-24:00 for "Using the connection to make a query"
           
-- [ ]    Watch the JDBC  API Webinar to learn how to use its implementations to work with MySQL from Java and perform CREATE, READ, UPDATE, and DELETE (CRUD) operations on data.
+- [x]    Watch the JDBC  API Webinar to learn how to use its implementations to work with MySQL from Java and perform CREATE, READ, UPDATE, and DELETE (CRUD) operations on data.
      
 - [ ]    Examine the ERD
      
